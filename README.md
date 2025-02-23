@@ -6,8 +6,9 @@ TextUtils is a React-based web application that provides various text processing
 ## Screenshots
 Here are some screenshots of the TextUtils React application:
 
-<img src="screenshots/home.png" alt="Home Page" width="100%">
-<img src="screenshots/dark_mode.png" alt="Dark Mode" width="100%">
+<img src="https://github.com/RohitParmar-17/Text-Utils-React/blob/master/screenshots/textutil1.png" alt="Home Page" width="100%">
+
+<img src="https://github.com/RohitParmar-17/Text-Utils-React/blob/master/screenshots/textutil2.png" alt="Dark Mode" width="100%">
 
 ## Features
 - **Convert to Uppercase**: Quickly convert text to uppercase.
